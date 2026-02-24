@@ -12,3 +12,4 @@ C:\Users\pedro\Desktop\P3cS\estudo\csharp\leonardo-moura-csharp\leonardo-moura-c
 C:\Users\pedro\Desktop\P3cS\estudo\csharp\leonardo-moura-csharp\leonardo-moura-csharp\CursoCSharp\obj\Debug\net10.0\CursoCSharp.pdb
 C:\Users\pedro\Desktop\P3cS\estudo\csharp\leonardo-moura-csharp\leonardo-moura-csharp\CursoCSharp\obj\Debug\net10.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\pedro\Desktop\P3cS\estudo\csharp\leonardo-moura-csharp\leonardo-moura-csharp\CursoCSharp\obj\Debug\net10.0\ref\CursoCSharp.dll
+C:\Users\pedro\Desktop\P3cS\estudo\csharp\leonardo-moura-csharp\leonardo-moura-csharp\CursoCSharp\obj\Debug\net10.0\CursoCSharp.sourcelink.json
